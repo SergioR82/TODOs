@@ -1,0 +1,10 @@
+C:\Sergio\Trabajo\DOTNETGROUP\Repositorios\Github\RestTODOs\TODOs.Data\bin\Debug\TODOs.Data.dll.config
+C:\Sergio\Trabajo\DOTNETGROUP\Repositorios\Github\RestTODOs\TODOs.Data\bin\Debug\TODOs.Data.dll
+C:\Sergio\Trabajo\DOTNETGROUP\Repositorios\Github\RestTODOs\TODOs.Data\bin\Debug\TODOs.Data.pdb
+C:\Sergio\Trabajo\DOTNETGROUP\Repositorios\Github\RestTODOs\TODOs.Data\bin\Debug\EntityFramework.dll
+C:\Sergio\Trabajo\DOTNETGROUP\Repositorios\Github\RestTODOs\TODOs.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sergio\Trabajo\DOTNETGROUP\Repositorios\Github\RestTODOs\TODOs.Data\bin\Debug\EntityFramework.xml
+C:\Sergio\Trabajo\DOTNETGROUP\Repositorios\Github\RestTODOs\TODOs.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sergio\Trabajo\DOTNETGROUP\Repositorios\Github\RestTODOs\TODOs.Data\obj\Debug\TODOs.Data.csproj.CopyComplete
+C:\Sergio\Trabajo\DOTNETGROUP\Repositorios\Github\RestTODOs\TODOs.Data\obj\Debug\TODOs.Data.dll
+C:\Sergio\Trabajo\DOTNETGROUP\Repositorios\Github\RestTODOs\TODOs.Data\obj\Debug\TODOs.Data.pdb
